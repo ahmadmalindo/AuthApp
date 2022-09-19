@@ -1,7 +1,7 @@
 # AuthApp
 implementation firebase auth in my aplication
 
-in this aplication you can register with username, email and password, you can login with email and password, if you forgot the password you can send email lik to reset your password, note if youy check email and you cannot find email in inbox check spam folder in email. and you can login, in aplication you can look your status varified or not verified, and then you can verified email with click button "Verifikasi Akun", and aoutomaticly send link in your email, sign out and sign in again if you can look your status account verified or not
+in this aplication you can register with username, email and password, you can login with email and password, if you forgot the password you can send email link to reset your password, note if you check email and you cannot find email in inbox check spam folder in email. and you can login, in aplication you can look your status varified or not verified, and then you can verified email with click button "Verifikasi Akun", and aoutomaticly send link in your email, sign out and sign in again if you can look your status account verified or not
 
 ![login](https://user-images.githubusercontent.com/111865104/190932141-fc9af6fb-5bd5-40de-a259-ff66869113cf.png)
 ![register](https://user-images.githubusercontent.com/111865104/190932107-bc96fce7-7593-458f-aac6-39e8614005a8.png)
